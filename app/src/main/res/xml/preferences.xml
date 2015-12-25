@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="user_nick"
+        android:title="@string/user_nick"
+        android:dialogTitle="@string/user_nick" />
+    <EditTextPreference
+        android:key="user_status"
+        android:title="@string/user_status"
+        android:dialogTitle="@string/user_status"/>
+    <CheckBoxPreference
+        android:key="out_of_town"
+        android:title="@string/out_of_town"
+        android:defaultValue="false"/>
+    <ListPreference
+        android:key="memes_list"
+        android:title="Memes"
+        android:dialogTitle="Memes"
+        android:entries="@array/meme_array_entries"
+        android:entryValues="@array/meme_array_values"
+        android:defaultValue="@string/meme_array_default"/>
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Squack</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="user_nick">Nickname</string>
+    <string name="user_status">Status</string>
+    <string name="out_of_town">Out of Town</string>
+    <string name="meme_array_default">dank</string>
+</resources>

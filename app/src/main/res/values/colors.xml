@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#03A9F4</color>
+    <color name="Secondary">#0277BD</color>
+    <color name="Tertiary">#81D4FA</color>
+    <color name="AccentLight">#B9F6CA</color>
+    <color name="AccentDark">#00E676</color>
+<color name="TryAccentLight">#FFAB40</color>
+
+    <!--Transparent Versions-->
+    <color name="SecondaryLight">#440277BD</color>
+</resources>

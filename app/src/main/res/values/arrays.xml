@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meme_array_entries">
+        <item>dank</item>
+        <item>dank af</item>
+        <item>sick</item>
+        <item>good</item>
+        <item>ayy lmao</item>
+    </string-array>
+    <string-array name="meme_array_values">
+        <item>dank</item>
+        <item>dank_af</item>
+        <item>sick</item>
+        <item>good</item>
+        <item>ayy_lmao</item>
+    </string-array>
+</resources>
